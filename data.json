@@ -1,0 +1,286 @@
+[
+{
+"slug": "all",
+"expire_time": "2020-09-23T19:58:00+03:00",
+"page": {
+"title": "Клиентские дни",
+"parent_page": {
+"path": "/new_shops/",
+"title": "Новые магазины"
+}
+},
+"colors": [
+"#DC296A",
+"#3D62D7"
+],
+"light": true,
+"background": {
+"style": {
+"opacity": 0.35
+},
+"gradient": "linear-gradient(106.13deg, rgba(250, 167, 183, 0.9) 9.37%, rgba(123, 157, 243, 0.9) 100.49%)"
+},
+"components": [
+{
+"type": "top_banner",
+"show": true,
+"hasContainer": true,
+"images": [
+{
+"id": 432490,
+"type": "MEDIA_TYPE/IMAGE",
+"title": "IWjas4ShAb8.jpg",
+"sources": [
+{
+"dimensions": {
+"width": 639,
+"height": 960
+},
+"main": {
+"normal": "/content/landing/girl_1_@1x.jpg",
+"double": "/content/landing/girl_1_@2x.jpg"
+},
+"fallback": {
+"normal": "/content/landing/girl_1_@1x.jpg",
+"double": "/content/landing/girl_1_@2x.jpg"
+}
+}
+]
+},
+{
+"id": 414131,
+"type": "MEDIA_TYPE/IMAGE",
+"title": "8447 (1).jpg",
+"sources": [
+{
+"dimensions": {
+"width": 639,
+"height": 960
+},
+"main": {
+"normal": "/content/landing/girl_2_@1x.jpg",
+"double": "/content/landing/girl_2_@2x.jpg"
+},
+"fallback": {
+"normal": "/content/landing/girl_2_@1x.jpg",
+"double": "/content/landing/girl_2_@2x.jpg"
+}
+}
+]
+}
+],
+"label": "21-22 февраля",
+"title": [
+"Клиентские",
+"дни"
+],
+"address": {
+"title": "москва",
+"date_list": [
+{
+"date": "21/02",
+"location": "ТЦ Охотный ряд, Манежная площадь д. 1, стр. 2"
+},
+{
+"date": "22/02",
+"location": "ТЦ Мега Белая дача, г. Котельники, 1 Покровский проезд, д.1  "
+}
+]
+},
+"action": {
+"show": true,
+"description": "Принеси этот купон на открытие и получи классный подарок!",
+"title": "Расспечатать купон"
+}
+},
+{
+"type": "gifts",
+"show": true,
+"hasContainer": true,
+"list": [
+{
+"title": "Скидки",
+"media": {
+"id": 749762,
+"type": "MEDIA_TYPE/IMAGE",
+"title": "Молочко для тела",
+"sources": [
+{
+"dimensions": {
+"width": 3200,
+"height": 3200
+},
+"main": {
+"normal": "/content/landing/ddd_1x.png",
+"double": "/content/landing/ddd_2x.png"
+},
+"fallback": {
+"normal": "/content/landing/ddd_1x.png",
+"double": "/content/landing/ddd_2x.png"
+}
+}
+]
+}
+},
+{
+"title": "подарки",
+"media": {
+"id": 749762,
+"type": "MEDIA_TYPE/IMAGE",
+"title": "Молочко для тела",
+"sources": [
+{
+"dimensions": {
+"width": 3200,
+"height": 3200
+},
+"main": {
+"normal": "/content/landing/qqq_@1x.png",
+"double": "/content/landing/qqq_@2x.png"
+},
+"fallback": {
+"normal": "/content/landing/qqq_@1x.png",
+"double": "/content/landing/qqq_@2x.png"
+}
+}
+]
+}
+},
+{
+"title": "двойные бонусы на карту",
+"media": {
+"id": 749762,
+"type": "MEDIA_TYPE/IMAGE",
+"title": "Молочко для тела",
+"sources": [
+{
+"dimensions": {
+"width": 3200,
+"height": 3200
+},
+"main": {
+"normal": "/content/landing/bbb_@1x.png",
+"double": "/content/landing/bbb_@2x.png"
+},
+"fallback": {
+"normal": "/content/landing/bbb_@1x.png",
+"double": "/content/landing/bbb_@2x.png"
+}
+}
+]
+}
+}
+]
+},
+{
+"type": "rules",
+"title": [
+"Акции",
+"на открытии"
+],
+"hasContainer": true,
+"show": true,
+"list": [
+{
+"title": "Выложи фото в день открытия в Instagram - получи распечатанное фото в ПОДАРОК!",
+"media": {
+"id": 749762,
+"type": "MEDIA_TYPE/IMAGE",
+"title": "Молочко для тела",
+"sources": [
+{
+"dimensions": {
+"width": 3200,
+"height": 3200
+},
+"main": {
+"normal": "https://mixit.ru/upload/iblock/9a8/9a83a25ee3a620b8af62e7d5b61e018f.png"
+},
+"fallback": {
+"normal": "https://mixit.ru/upload/iblock/9a8/9a83a25ee3a620b8af62e7d5b61e018f.png"
+}
+}
+]
+}
+},
+{
+"title": "Выложи фото в день открытия в Instagram - получи распечатанное фото в ПОДАРОК!",
+"media": {
+"id": 749762,
+"type": "MEDIA_TYPE/IMAGE",
+"title": "Молочко для тела",
+"sources": [
+{
+"dimensions": {
+"width": 3200,
+"height": 3200
+},
+"main": {
+"normal": "https://mixit.ru/upload/iblock/9a8/9a83a25ee3a620b8af62e7d5b61e018f.png"
+},
+"fallback": {
+"normal": "https://mixit.ru/upload/iblock/9a8/9a83a25ee3a620b8af62e7d5b61e018f.png"
+}
+}
+]
+}
+},
+{
+"title": "Выложи фото в день открытия в Instagram - получи распечатанное фото в ПОДАРОК!",
+"media": {
+"id": 749762,
+"type": "MEDIA_TYPE/IMAGE",
+"title": "Молочко для тела",
+"sources": [
+{
+"dimensions": {
+"width": 3200,
+"height": 3200
+},
+"main": {
+"normal": "https://mixit.ru/upload/iblock/9a8/9a83a25ee3a620b8af62e7d5b61e018f.png"
+},
+"fallback": {
+"normal": "https://mixit.ru/upload/iblock/9a8/9a83a25ee3a620b8af62e7d5b61e018f.png"
+}
+}
+]
+}
+},
+{
+"title": "Выложи фото в день открытия в Instagram - получи распечатанное фото в ПОДАРОК!",
+"media": {
+"id": 749762,
+"type": "MEDIA_TYPE/IMAGE",
+"title": "Молочко для тела",
+"sources": [
+{
+"dimensions": {
+"width": 3200,
+"height": 3200
+},
+"main": {
+"normal": "https://mixit.ru/upload/iblock/9a8/9a83a25ee3a620b8af62e7d5b61e018f.png"
+},
+"fallback": {
+"normal": "https://mixit.ru/upload/iblock/9a8/9a83a25ee3a620b8af62e7d5b61e018f.png"
+}
+}
+]
+}
+}
+]
+},
+{
+"type": "group",
+"show": true,
+"hasContainer": true,
+"title": [
+"товары",
+"со скидкой"
+],
+"slug": "new"
+}
+]
+}
+]
